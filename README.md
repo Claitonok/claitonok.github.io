@@ -1,1 +1,1 @@
-https://claitonok.github.io/Projeto01(formulario)/
+Claitonok.github.io/Projeto01(formulario)/
