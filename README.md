@@ -1,1 +1,1 @@
-claitonok.github.io/Projeto01(formulario)/
+claitonok.github.io
